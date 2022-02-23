@@ -1,5 +1,5 @@
 {
-  "name": "string-trunc",
+  "name": "@vyash5075/string-trunc",
   "version": "1.0.0",
   "description": "String Features like substring,truncate ,uppercase,lowercase",
   "main": "index.js",
