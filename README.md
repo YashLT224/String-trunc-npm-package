@@ -1,0 +1,1 @@
+# String-trunc-npm-package
